@@ -35,7 +35,7 @@ SimplyNote is a lightweight, full-stack note-taking application built to provide
 ## Running the Project
 - Install Docker and then run:
 ```bash
-git clone https://github.com/hardi-g/simplynote.git
+git clone https://github.com/hardi-g/SimplyNote.git
 cd SimplyNote
 docker-compose up --build
 ```
